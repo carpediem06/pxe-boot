@@ -8,7 +8,7 @@ Linux uEFI
 
 ## Documentation
 
-	``` http://www.pix.net/software/pxeboot/archive/pxespec.pdf ``` 
+	See [pxespec.pdf](http://www.pix.net/software/pxeboot/archive/pxespec.pdf) 
 
 ## Requirements (Tested on ubuntu 18.04)
 
